@@ -1,0 +1,198 @@
+{
+  "projects": [
+    {
+      "id": "58b6",
+      "name": "bf,gbfdç~b,",
+      "start_date": "2024-10-24",
+      "category": {
+        "id": "13",
+        "name": "Arquitetura"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "9eb2",
+      "name": "k",
+      "start_date": "2024-10-30",
+      "category": {
+        "id": "19",
+        "name": "Turismo"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "22df",
+      "name": "naua_messias",
+      "category": {
+        "id": "16",
+        "name": "Ciências"
+      },
+      "start_date": "2024-10-31",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "baca",
+      "start_date": "2024-10-30",
+      "name": "projeto 001",
+      "category": {
+        "id": "19",
+        "name": "Turismo"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "26bf",
+      "category": {
+        "id": "17",
+        "name": "Arte e Cultura"
+      },
+      "name": "rprur",
+      "start_date": "2024-10-02",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "0a80",
+      "name": "rprur",
+      "start_date": "2024-10-23",
+      "category": {
+        "id": "17",
+        "name": "Arte e Cultura"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "0e65",
+      "name": "egm~]kgn~]r",
+      "start_date": "2024-10-17",
+      "category": {
+        "id": "11",
+        "name": "Recursos Humanos"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "deec",
+      "name": "Bruna",
+      "start_date": "2024-10-10",
+      "category": {
+        "id": "15",
+        "name": "Moda"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Tecnologia"
+    },
+    {
+      "id": "2",
+      "name": "Educação"
+    },
+    {
+      "id": "3",
+      "name": "Saúde"
+    },
+    {
+      "id": "4",
+      "name": "Financeiro"
+    },
+    {
+      "id": "5",
+      "name": "Marketing"
+    },
+    {
+      "id": "6",
+      "name": "Design"
+    },
+    {
+      "id": "7",
+      "name": "Engenharia"
+    },
+    {
+      "id": "8",
+      "name": "Gestão"
+    },
+    {
+      "id": "9",
+      "name": "Agricultura"
+    },
+    {
+      "id": "10",
+      "name": "Meio Ambiente"
+    },
+    {
+      "id": "11",
+      "name": "Recursos Humanos"
+    },
+    {
+      "id": "12",
+      "name": "Logística"
+    },
+    {
+      "id": "13",
+      "name": "Arquitetura"
+    },
+    {
+      "id": "14",
+      "name": "Urbanismo"
+    },
+    {
+      "id": "15",
+      "name": "Moda"
+    },
+    {
+      "id": "16",
+      "name": "Ciências"
+    },
+    {
+      "id": "17",
+      "name": "Arte e Cultura"
+    },
+    {
+      "id": "18",
+      "name": "Esportes"
+    },
+    {
+      "id": "19",
+      "name": "Turismo"
+    },
+    {
+      "id": "20",
+      "name": "Alimentação"
+    },
+    {
+      "id": "21",
+      "name": "Transporte"
+    },
+    {
+      "id": "22",
+      "name": "Segurança"
+    },
+    {
+      "id": "23",
+      "name": "Energia"
+    },
+    {
+      "id": "24",
+      "name": "Tecnologia da Informação"
+    },
+    {
+      "id": "25",
+      "name": "Biotecnologia"
+    },
+    {
+      "id": "26",
+      "name": "Inteligência Artificial"
+    }
+  ]
+}
